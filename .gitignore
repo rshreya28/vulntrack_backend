@@ -1,0 +1,6 @@
+@"
+target/
+.env
+*.log
+*.sql
+"@ | Add-Content .gitignore
